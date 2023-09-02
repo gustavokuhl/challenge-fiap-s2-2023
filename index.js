@@ -1,3 +1,5 @@
+require('apminsight')()
+
 const express = require('express');
 const app = express();
 
